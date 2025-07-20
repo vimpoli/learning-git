@@ -18,4 +18,6 @@
    `git add .` (Track all)
 
 4. Commit changes
-`git commit -m "<message>"`
+`git commit -m "<comment>"`
+
+5. Create a branch
