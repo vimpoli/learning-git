@@ -18,6 +18,12 @@
    `git add .` (Track all)
 
 4. Commit changes
-`git commit -m "<comment>"`
+   `git commit -m "<comment>"`
 
 5. Create a branch
+
+## Remote repository
+
+1. GitHub
+2. GitLab (recommended)
+3. BitBucket
